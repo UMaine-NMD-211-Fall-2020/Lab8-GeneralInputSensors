@@ -108,9 +108,6 @@ Keypad
 - [Useful Video](https://youtu.be/yE2mPGrqqg4) 
 
 
-
-## Submission
-
-## Submission
+## How to Submit
 Submit via Google Drive or by making a pull request and linking to your folder here.
 - [FirstName LastName](www.example.com)
