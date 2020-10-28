@@ -5,7 +5,7 @@ In this lab, you will learn to use your choice of  2 input sensors, so that you 
 0. Explanation of your lanterns to class
 1. Exploration of Sensor 1
 2. [EXTRA] Exploration of Sensor 2
-3. Use all 2 input sensors
+3. Use both input sensors
 4. Make your code from last week, the RGB LED / Push button joint code more concise or efficient. Use functions or classes. 
 ## To Submit
 Upload the following to your google drive folder or link to your file via github. Only the code needed to take in input is necessary - feel free to use an LED to show that input was received, or take a screenshot of print statements that show that the values are getting through. In the case of a print statement, it needs to state what the values we see are as well as state the 
