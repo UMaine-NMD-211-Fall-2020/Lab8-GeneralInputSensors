@@ -30,7 +30,7 @@ Upload the following to your google drive folder or link to your file via github
 4. What would you need to do to use this input in your lantern design?
 ### 3: Combine 2 sensors
 Look at your documentation from last week's push buttons as well as this week's sensor. 
-1. Draw a electrical diagram that shows how to connect all 2 sensors into one working circuit.  Explain what is happening. 
+1. Draw a electrical diagram that shows how to connect both sensors into one working circuit.  Explain what is happening. 
 2. Set up the circuit. Take pictures. 
 3. Write the code that combines all of these. Use LEDS/ RGB LEDS to differentiate between getting different types of inputs. Take video.
 4. Show this working in your lantern. Take video. 
