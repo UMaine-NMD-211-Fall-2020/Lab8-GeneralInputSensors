@@ -65,10 +65,51 @@ Detect sounds
 - [Written Details](https://www.instructables.com/Arduino-Sound-Sensor-with-LED/)
 - [Useful Video](https://youtu.be/RwHGioglbk8)
 
-#### Water Level Detection Sensor Module
+#### Water Level Detection Sensor 
 Keep track of water levels
 - [Written Details](https://theiotprojects.com/water-level-sensor-arduino-tutorial/)
 - [Useful Video](https://youtu.be/n7WRi5U5lQk)
+
+
+#### Ultrasonic Sensor Module
+Determine how far away something is
+- [Written Details](https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor.htm)
+- [Useful Video](https://youtu.be/WslzsHDYuF0)
+
+#### DS1307 RTC(Real Time Clock)
+Input Time from the real world. 
+- [Written Details](https://www.electronics-lab.com/project/ds1307-rtc-module/)
+- [Useful Video](https://youtu.be/drU3dQa-8CE)
+
+#### Rotary Encoder 
+Have knob, change angle turned into digital data. Read [Rotary encoder vs potentiometer](https://www.arrow.com/en/research-and-events/articles/encoder-vs-potentiometer-how-to-choose#:~:text=The%20most%20obvious%20difference%20between%20rotary%20potentiometers%20and,clockwise%20or%20counter-clockwise%20before%20they%20need%20to%20stop.)
+- [Written Details](https://electropeak.com/learn/rotary-encoder-how-it-works-how-to-use-with-arduino/)
+- [Useful Video](https://youtu.be/zYE5JhUMjys)
+
+#### DHT11 Temperature & Humidity Sensory
+Take in temperature and humidity
+- [Written Details](https://create.arduino.cc/projecthub/techno_z/dht11-temperature-humidity-sensor-98b03b)
+- [Useful Video](https://youtu.be/OogldLc9uYc) 
+#### IR Receiver
+Infra Red data - to be used with remote control
+- [Written Details](https://tutorial45.com/arduino-ir-receiver/)
+- [Useful Video](https://youtu.be/3jeSfsnQOWk) 
+#### Joystick
+Joystick, just in case you want to make something like a game
+- [Written Details](https://www.best-microcontroller-projects.com/arduino-joystick.html)
+- [Useful Video](https://youtu.be/MlDi0vO9Evg) 
+#### Potentiometer
+Have knob, change angle turned into analog data. Read [Rotary encoder vs potentiometer](https://www.arrow.com/en/research-and-events/articles/encoder-vs-potentiometer-how-to-choose#:~:text=The%20most%20obvious%20difference%20between%20rotary%20potentiometers%20and,clockwise%20or%20counter-clockwise%20before%20they%20need%20to%20stop.)
+- [Written Details](https://www.arduino.cc/en/tutorial/potentiometer)
+- [Useful Video](https://youtu.be/RBYVUTIU4FE) 
+#### Membrane Switch
+Keypad
+- [Written Details](https://randomnerdtutorials.com/arduino-membrane-keypad-tutorial/)
+- [Useful Video](https://youtu.be/yE2mPGrqqg4) 
+
+
+
+## Submission
 
 ## Submission
 Submit via Google Drive or by making a pull request and linking to your folder here.
