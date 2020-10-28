@@ -4,8 +4,8 @@ In this lab, you will learn to use your choice of  2 input sensors, so that you 
 ## Steps
 0. Explanation of your lanterns to class
 1. Exploration of Sensor 1
-2. Exploration of Sensor 2
-3. Use all 3 input sensors
+2. [EXTRA] Exploration of Sensor 2
+3. Use all 2 input sensors
 4. Make your code from last week, the RGB LED / Push button joint code more concise or efficient. Use functions or classes. 
 ## To Submit
 Upload the following to your google drive folder or link to your file via github. Only the code needed to take in input is necessary - feel free to use an LED to show that input was received, or take a screenshot of print statements that show that the values are getting through. In the case of a print statement, it needs to state what the values we see are as well as state the 
@@ -19,7 +19,7 @@ Upload the following to your google drive folder or link to your file via github
 - Properly commented code, zipped, with naming scheme: Lab8_Sensor1_FirstName_LastName 
 3. Document any difficulties you ran into. How did you fix them? Links/screenshots or brief written descriptions as appropriate. If there were none, say so. 
 4. What would you need to do to use this input in your lantern design?
-### 2: Explore Sensor 2
+### 2: Explore Sensor 2 [EXTRA CREDIT]
 1. State your second input sensor of choice. Why did you choose it? Did you make use of all of it's capabilities. If not, which capabilities did you use, and what drove that choice? Do you understand where to find more data on how to use these sensors?
 2. Describe what how you got input from this sensor.
 - Electrical diagram with explanation
@@ -28,9 +28,9 @@ Upload the following to your google drive folder or link to your file via github
 - Properly commented code, zipped, with naming scheme: Lab8_Sensor2_FirstName_LastName 
 3. Document any difficulties you ran into. How did you fix them? Links/screenshots or brief written descriptions as appropriate.
 4. What would you need to do to use this input in your lantern design?
-### 3: All 3 sensors
-Look at your documentation from last week's push buttons, as well as this week's sensors. 
-1. Draw a electrical diagram that shows how to connect all 3 sensors into one working circuit.  Explain what is happening. 
+### 3: Combine 2 sensors
+Look at your documentation from last week's push buttons as well as this week's sensor. 
+1. Draw a electrical diagram that shows how to connect all 2 sensors into one working circuit.  Explain what is happening. 
 2. Set up the circuit. Take pictures. 
 3. Write the code that combines all of these. Use LEDS/ RGB LEDS to differentiate between getting different types of inputs. Take video.
 4. Show this working in your lantern. Take video. 
