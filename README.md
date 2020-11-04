@@ -1,5 +1,5 @@
 # Lab8: General Input Sensors
-In this lab, you will learn to use your choice of  2 input sensors, so that you can trigger events in at least 3 ways. These inputs will be used with your lanterns.  This is not the end of the lanterns!
+In this lab, you will learn to use your choice of  1 input sensors, so that you can trigger events in at least 2 ways. These inputs will be used with your lanterns.  This is not the end of the lanterns!
 
 ## Steps
 0. Explanation of your lanterns to class
