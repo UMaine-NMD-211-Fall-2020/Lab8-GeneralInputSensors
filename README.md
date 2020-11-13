@@ -33,7 +33,7 @@ Look at your documentation from last week's push buttons as well as this week's 
 1. Draw a electrical diagram that shows how to connect both sensors into one working circuit.  Explain what is happening. 
 2. Set up the circuit. Take pictures. 
 3. Write the code that combines all of these. Use LEDS/ RGB LEDS to differentiate between getting different types of inputs. Take video.
-4. Show this working in your lantern. Take video. 
+4. *DEPRECATED - OLD - DON'T DO UNLESS YOU'VE ALREADY DONE THIS* Show this working in your lantern. Take video. 
 5. Document any difficulties / issues.  If there were none, say so. 
 ### 4: Code efficiency
 1. Submit a zip file with your joint push button / RGB LED code from last week, made more efficient. Don't hardcode, use functions, use classes as appropriate. Make sure to run it on your arduino to see that it still compiles properly before turning this in. 
